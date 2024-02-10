@@ -1214,17 +1214,11 @@ section,
 
 
 @media (max-width: 767px) {
-
-  .testimonials .testimonials-carousel,
-  .testimonials .testimonials-slider {
-    overflow: hidden;
-  }
-
-  .testimonials .testimonial-item {
-    margin: 15px;
+  .team .member .member-img {
+    max-width: 100%; /* Allow the image to take full width on smaller screens */
+    margin: 0 auto;
   }
 }
-
 /* Recent-posts Section - Home Page
 ------------------------------*/
 .contact .info-item {
