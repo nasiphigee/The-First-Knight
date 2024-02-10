@@ -121,7 +121,7 @@ h6 {
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
   color: var(--contrast-color);
-  background: rgba(var(--accent-color-rgb), 0.85);
+  background: green;
 }
 
 @media (max-width: 1200px) {
